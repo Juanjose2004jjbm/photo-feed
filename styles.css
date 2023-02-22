@@ -1,0 +1,93 @@
+body{
+    margin: auto;
+    background-color: gray;
+    justify-content: center;
+    
+}
+
+.photofeed{
+    width: 100%;
+    background-color: white;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    
+}
+
+.caja1{
+    background-color: white;
+    width: 450px;
+    height: 400px;
+    margin-left: 400px;
+    margin-bottom: 80px;
+}
+
+.parte1{
+    background-color: white;
+    height: 12%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nombre1{
+
+    padding-left: 2%;
+}
+
+.nombre2{
+    color: grey;
+    padding-right: 1%;
+}
+
+.parte2{
+
+    background-color: black;
+    height: 73%;
+}
+
+.foto{
+    height: 100%;
+    width: 450px;
+}
+
+.parte3{
+    background-color: white;
+    height: 15%;
+    padding-left: 4%;
+}
+
+
+
+.caja2{
+    background-color: white;
+    width: 450px;
+    height:400px ;
+    margin-left: 400px;
+    margin-bottom: 80px;
+}
+
+.caja3{
+    background-color: white;
+    width: 450px;
+    height: 400px;
+    margin-left: 400px;
+    margin-bottom: 80px;
+}
+
+.caja4{
+    background-color: white;
+    width: 450px;
+    height: 400px;
+    margin-left: 400px;
+    margin-bottom: 80px;
+}
+
+/*
+* {
+    border: 1px dashed red;
+    min-height: 10px;
+}
+
+
